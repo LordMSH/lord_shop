@@ -1,6 +1,7 @@
 function Ame(){
     return(
         <>
+        <p>hello</p>
         </>
     )
 }
