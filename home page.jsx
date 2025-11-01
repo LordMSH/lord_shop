@@ -1,7 +1,8 @@
 function Ame(){
     return(
         <>
-        <footer>
+        <p>hello</p>
+                <footer>
             <p>this is fotter</p>
         </footer>
         </>
